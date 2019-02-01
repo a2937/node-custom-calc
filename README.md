@@ -1,2 +1,24 @@
-# Node-Custom-Calc
-A custom module (using the folder style and stored in node_modules)  This module will support the following Math Functions  1. Addition 2. Subtraction 3. Division 4. Multiplication 5. Square Root 6. Get History  This will support history of the last 10 executions. 
+Node custom calculator
+=========
+
+A small library that supports basic math operations 
+such as addition, subtraction, multiplication, division, 
+square rooting, and history. 
+
+## Installation
+
+  `npm install @a2937/custom-calc`
+
+## Usage
+
+    var calc = require('@a2937/custom-calc');
+
+    var product = calc.Multiply(15,4);
+  
+  
+  Output should be 60
+
+
+## Tests
+
+  `npm test`
