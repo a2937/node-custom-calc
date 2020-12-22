@@ -23,6 +23,6 @@
   "homepage": "https://github.com/a2937/node-custom-calc#readme",
   "devDependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^8.2.1"
   }
 }
